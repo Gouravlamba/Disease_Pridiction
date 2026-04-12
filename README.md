@@ -14,3 +14,4 @@ hosting
 deployment
 developemnt
 my team
+here is exact rule to buid it
