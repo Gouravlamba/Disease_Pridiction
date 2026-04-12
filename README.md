@@ -6,3 +6,5 @@ kasisdw
 iam lambha
 updated version
 technical skills are
+1 ml
+2 ai
