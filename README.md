@@ -18,4 +18,3 @@ here is exact rule to buid it
 ## architure
 ## graphs
 ## Diagrams
-## Apis
