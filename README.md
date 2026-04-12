@@ -5,3 +5,4 @@ hello guys
 kasisdw
 iam lambha
 updated version
+technical skills are
