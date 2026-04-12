@@ -9,3 +9,4 @@ technical skills are
 1 ml
 2 ai
 api are
+here is the apis 1. resful api 2nd. is non restful api
