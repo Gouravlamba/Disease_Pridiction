@@ -11,3 +11,4 @@ technical skills are
 api are
 here is the apis 1. resful api 2nd. is non restful api
 hosting
+deployment
