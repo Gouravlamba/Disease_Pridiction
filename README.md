@@ -5,6 +5,5 @@ Disease_Pridiction
 ## Male
 ## Female
 ## provide
-## old age
 
 
