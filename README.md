@@ -8,5 +8,5 @@ Disease_Pridiction
 ## old age
 ## garbage collection
 ## Second Office
-## Office for male
+
 
