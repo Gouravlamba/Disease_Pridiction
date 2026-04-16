@@ -6,3 +6,4 @@ Disease_Pridiction
 ## Female
 ## provide
 ## old age
+## garbage collection
