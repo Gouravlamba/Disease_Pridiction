@@ -2,6 +2,5 @@
 Disease_Pridiction
 ## Home
 ## Office
-## Male
 
 
