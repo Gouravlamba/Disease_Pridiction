@@ -4,7 +4,6 @@ Disease_Pridiction
 ## This
 ## Is the first
 ## here is my phone
-## to buid this application 
 
 
 
