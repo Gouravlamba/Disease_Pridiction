@@ -9,6 +9,6 @@ Disease_Pridiction
 ## instagram
 ## and ticktok id
 ## this is a new idia for us
-## this is a jouniour software developer
+
 
 
