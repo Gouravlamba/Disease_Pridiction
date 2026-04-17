@@ -8,7 +8,6 @@ Disease_Pridiction
 ## login page
 ## instagram
 ## and ticktok id
-## this is a new idia for us
 
 
 
