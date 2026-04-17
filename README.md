@@ -11,4 +11,4 @@ Disease_Pridiction
 ## this is a new idia for us
 ## this is a jouniour software developer
 ## and here is the updated version this 
-## and how to buid this version for latest id and lates mobile phone the and how to
+
