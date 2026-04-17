@@ -6,3 +6,4 @@ Disease_Pridiction
 ## here is my phone
 ## to buid this application 
 ## login page
+## instagram
