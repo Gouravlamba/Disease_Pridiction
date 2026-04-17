@@ -10,5 +10,5 @@ Disease_Pridiction
 ## and ticktok id
 ## this is a new idia for us
 ## this is a jouniour software developer
-## and here is the updated version this 
+
 
