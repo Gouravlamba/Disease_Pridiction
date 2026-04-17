@@ -7,3 +7,4 @@ Disease_Pridiction
 ## to buid this application 
 ## login page
 ## instagram
+## and ticktok id
