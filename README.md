@@ -9,7 +9,7 @@ Disease_Pridiction
 ## data and all deciese
 ## and many form is there
 ## developerd by gaurav lambha
-## made by lambha
+
 
 
 
