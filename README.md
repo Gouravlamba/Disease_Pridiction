@@ -7,6 +7,7 @@ Disease_Pridiction
 ### it is fune but here is some
 ## databae prediction for the rule is that
 ## data and all deciese
+## and many form is there
 
 
 
