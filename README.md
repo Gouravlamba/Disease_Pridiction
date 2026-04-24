@@ -5,6 +5,7 @@ Disease_Pridiction
 ## you can see all details about it
 ### find the actual await
 ### it is fune but here is some
+## databae prediction for the rule is that
 
 
 
