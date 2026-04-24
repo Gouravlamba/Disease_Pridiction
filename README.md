@@ -6,6 +6,7 @@ Disease_Pridiction
 ### find the actual await
 ### it is fune but here is some
 ## databae prediction for the rule is that
+## data and all deciese
 
 
 
