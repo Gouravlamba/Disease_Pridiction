@@ -11,6 +11,7 @@ Disease_Pridiction
 ### this is file not any word
 ### mongoDB
 ### skills react node
+### node for all documents
 
 
 
