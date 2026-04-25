@@ -4,8 +4,7 @@ Disease_Pridiction
 ### this is file not any word
 ### skills react node
 ### express
-### mongoDB
-### MYSQL
+
 
 
 
