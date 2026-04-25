@@ -1,7 +1,7 @@
 # Disease_Pridiction
 Disease_Pridiction
 ### hello
-### this is file not any word
+
 
 
 
