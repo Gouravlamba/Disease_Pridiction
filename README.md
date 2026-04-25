@@ -10,7 +10,7 @@ Disease_Pridiction
 ### this is file not any word
 ### this is file not any word
 ### mongoDB
-### skills react node
+
 
 
 
