@@ -9,7 +9,7 @@ Disease_Pridiction
 ## node developer
 ## sql developer
 ## aws engineer
-## methmatics and ai/ml
+
 
 
 
