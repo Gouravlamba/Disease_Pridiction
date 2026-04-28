@@ -5,7 +5,7 @@ Disease_Pridiction
 ## ai/ml engineering
 ## cloud engineering
 ## flutter development
-## react developer
+
 
 
 
