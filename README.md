@@ -7,6 +7,7 @@ Disease_Pridiction
 ## flutter development
 ## react developer
 ## node developer
+## sql developer
 
 
 
