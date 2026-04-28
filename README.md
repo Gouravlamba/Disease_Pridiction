@@ -10,6 +10,7 @@ Disease_Pridiction
 ## sql developer
 ## aws engineer
 ## methmatics and ai/ml
+## data engineering
 
 
 
