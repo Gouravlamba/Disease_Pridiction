@@ -6,7 +6,7 @@ Disease_Pridiction
 ## our midel used to build our modle for the actual cients and all the mention problem that resolve by our model
 ## here we have used all picture and all the discription for the cliets selection process and all the documents for our pridection for
 ## our flowchart used for the buildling our prediction for thr real detaset and 
-## the second section for the clients is to used for the 
+
 
 
 
